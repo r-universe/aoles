@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DEFormats"]
+	path = DEFormats
+	url = https://github.com/aoles/deformats
+	shallow = true
+	registered = true
+[submodule "EBImage"]
+	path = EBImage
+	url = https://github.com/aoles/ebimage
+	shallow = true
+	registered = true
