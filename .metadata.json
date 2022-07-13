@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "DEFormats"
+  },
+  {
+    "package": "EBImage"
+  }
+]
