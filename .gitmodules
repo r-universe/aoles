@@ -13,3 +13,8 @@
 	url = https://github.com/aoles/ebimage
 	shallow = true
 	registered = true
+[submodule "RBioFormats"]
+	path = RBioFormats
+	url = https://github.com/aoles/rbioformats
+	shallow = true
+	registered = true
