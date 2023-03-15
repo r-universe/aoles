@@ -1,11 +1,11 @@
 [
   {
+    "package": "DEFormats"
+  },
+  {
     "package": "EBImage"
   },
   {
     "package": "RBioFormats"
-  },
-  {
-    "package": "DEFormats"
   }
 ]
